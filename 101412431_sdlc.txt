@@ -1,1 +1,3 @@
 ## About System Development LifeCycle ##
+
+Is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time.
