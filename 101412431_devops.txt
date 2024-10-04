@@ -1,1 +1,3 @@
 # About DevOps #
+
+The primary goal of DevOps is to streamline and automate the application lifecycle to accelerate the delivery of high-quality products.
