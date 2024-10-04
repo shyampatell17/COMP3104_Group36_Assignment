@@ -2,3 +2,4 @@
 
 The primary goal of DevOps is to streamline and automate the application lifecycle to accelerate the delivery of high-quality products.
 DevOps is a combination of software development (dev) and operations (ops).
+DevOps engineers will instead spend time setting up for the automated build, testing, and deployment.
