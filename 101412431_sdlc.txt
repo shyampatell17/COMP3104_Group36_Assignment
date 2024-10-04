@@ -1,3 +1,4 @@
 ## About System Development LifeCycle ##
 
 Is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time.
+It identifies potential risks and issues in the software development process that helps developers take proactive measures.
