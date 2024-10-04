@@ -1,3 +1,4 @@
 #About DevOps - COMP3104 #
 
 -> COMP 3104 is a course focused on DevOps principles and practices.
+-> It covers the integration of development and operations to improve collaboration and productivity.
