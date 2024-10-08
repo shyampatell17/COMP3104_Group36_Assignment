@@ -1,1 +1,3 @@
 #####About DevOps - COMP3104#####
+
+-> The professor for our DevOps course is student-friendly.
