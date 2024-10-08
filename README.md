@@ -4,7 +4,7 @@
 
 - **Leader:** Shyam Patel (101412165) - [GitHub](https://github.com/shyampatell17)
 - **Member 2:** Meet Patel (101412431) - [GitHub](https://github.com/Pmack0702)
-- **Member 3:** 
+- **Member 3:** Manvi Gumber (101412099) - [GitHub](https://github.com/ManviGumber08)  
 - **Member 4:**
 - **Member 5:**
 
