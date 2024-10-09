@@ -1,1 +1,2 @@
 ### About SDLC ###
+-> SDLC - Software Development Life Cycle
