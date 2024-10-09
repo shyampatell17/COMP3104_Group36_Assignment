@@ -1,1 +1,2 @@
 ### About DevOps ###
+-> DevOps: Combines development and operations
