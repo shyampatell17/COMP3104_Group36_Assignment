@@ -1,2 +1,3 @@
 ### About SDLC ###
 -> SDLC - Software Development Life Cycle
+-> The software development lifecycle (SDLC) is the cost-effective and time-efficient process.
