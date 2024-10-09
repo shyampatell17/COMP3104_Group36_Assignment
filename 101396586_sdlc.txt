@@ -1,3 +1,4 @@
 ### About SDLC ###
 -> SDLC - Software Development Life Cycle
 -> The software development lifecycle (SDLC) is the cost-effective and time-efficient process.
+-> The goal of SDLC is to minimize project risks through forward planning
