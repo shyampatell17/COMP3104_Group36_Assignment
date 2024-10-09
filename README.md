@@ -6,7 +6,7 @@
 - **Member 2:** Meet Patel (101412431) - [GitHub](https://github.com/Pmack0702)
 - **Member 3:** Manvi Gumber (101412099) - [GitHub](https://github.com/ManviGumber08)  
 - **Member 4:** Harin Reddy (101425325) - [GitHub](https://github.com/harinreddy30)
-- **Member 5:**
+- **Member 5:** Krishna Reddy (101396586) - [GitHub](https://github.com/leelakrishna369)
 
 
 ## Project Description
