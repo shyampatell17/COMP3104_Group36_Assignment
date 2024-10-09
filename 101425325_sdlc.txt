@@ -1,3 +1,4 @@
 ### About SDLC ###
 -> SDLC - Software Devolopment Life Cycle
 -> Phases: Planning, Design, Development, Testing, Deployment, Maintenance.
+-> Goal: Efficient, high-quality software development.
