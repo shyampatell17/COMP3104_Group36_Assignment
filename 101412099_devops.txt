@@ -1,0 +1,5 @@
+#####About DevOps - COMP3104#####
+
+-> The professor for our DevOps course is student-friendly.
+->DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams.
+->A DevOps team includes developers and IT operations working collaboratively throughout the product lifecycle, in order to increase the speed and quality of software deployment.
