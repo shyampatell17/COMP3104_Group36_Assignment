@@ -1,3 +1,4 @@
 ### About DevOps ###
 -> DevOps: Combines development and operations
 -> Goal: Faster, more reliable software delivery.
+-> Focus: Collaboration between developers and IT operations.
