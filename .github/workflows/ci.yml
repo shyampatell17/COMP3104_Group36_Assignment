@@ -1,0 +1,31 @@
+name: GitHub Actions CI
+
+on: 
+  push:
+    branches:
+      - main  # Name of the default branch.
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+        
+      - name: Run Build and Tests
+        run: |
+          echo "🎉 The job was automatically triggered by a push event."
+          echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+          echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+          
+          echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+          
+          echo "🖥️ The workflow is now ready to test your code on the runner."
+          
+          # You can replace this with your build and test commands
+          echo "Listing files in the repository:"
+          ls ${{ github.workspace }}
+
+      - name: Job Status
+        run: echo "🍏 This job's status is ${{ job.status }}."
