@@ -4,3 +4,5 @@
    to design, develop, and test good-quality software.
 -> SDLC, or software development life cycle, is a methodology that defines
    the entire procedure of software development step-by-step.
+-> The goal of the SDLC life cycle model is to deliver high-quality, maintainable
+   software that meets the user’s requirements.
