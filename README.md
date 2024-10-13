@@ -36,4 +36,4 @@ making 3 commits each, which total up to 10 commits.
 
 ## Merge Conflict Display
 
-This is the line conflict will click on - (Shyam)
+The conflict in the line is resolved - (Shyam & Harin)
