@@ -32,3 +32,8 @@ merged into the `main` branch via Pull Requests.
 
 Each member has made 3 changes in each file of GBC, CDLC, and DevOps,
 making 3 commits each, which total up to 10 commits.
+
+
+## Merge Conflict Display
+
+This is the line conflict will click on - (Shyam)
